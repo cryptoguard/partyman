@@ -67,4 +67,14 @@
   "link-ccs": "https://ccs.particl.io/proposals/team-funding-request-5.html",
   "link-github": "https://github.com/particl/ccs-proposals/pull/24",
   "version": 1
+},
+{
+  "proposalid": 25,
+  "name": "Network Treasury and Inflation Adjustments",
+  "network": "mainnet",
+  "blockheight_start": 2010550,
+  "blockheight_end": 2020630,
+  "link-ccs": "https://ccs.particl.io/proposals/inflation-treasury-adjustments.html",
+  "link-github": "https://github.com/particl/ccs-proposals/pull/25",
+  "version": 1
 }]
