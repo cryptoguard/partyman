@@ -18,7 +18,7 @@ docker-compose up -d
 
 ## Install (docker-compose)
 
-1. Clone this repository on your server `git clone https://github.com/dasource/partyman.git`.
+1. Clone this repository on your server `git clone https://github.com/cryptoguard/partyman.git`.
 2. Run `docker-compose up -d`, this will build the image downloading and installing the latest release of partyman and particl-core and then run the container.
 3. Wait for the blocks to get downloaded. While waiting, you could:
   - Run `./particl-cli.sh getblockcount` to check the blockcount from the running particld.
