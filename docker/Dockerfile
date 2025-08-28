@@ -29,7 +29,7 @@ RUN ntpdate -q ntp.ubuntu.com
 
 WORKDIR /root
 #RUN git clone https://github.com/xludx/partyman.git
-RUN git clone https://github.com/dasource/partyman.git
+RUN git clone https://github.com/cryptoguard/partyman.git
 
 WORKDIR /root/partyman
 #RUN git checkout dockerized
